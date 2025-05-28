@@ -1,11 +1,8 @@
 ---
 title: "ENVS193DS-website_assignment"
+subtitle: Zach Wang
+author: Zach Wang
+Email: wangzachary925@gmail.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi! I am Zach. I am a 3rd year undergraduate student in UCSB majoring Environmental Studies. I am typically interested in renewable energy field. I am also a member of CETlab in ucsb, surrently working with raw data and building models for electricity power grid system. Outside of school, I enjoy hiking, landscape photographing, and car racing. I have hiked and camped in Iceland, Holland, US, and China. Feel free to poke around my website to learn more!
