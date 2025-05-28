@@ -2,7 +2,6 @@ project:
   type: website
   output-dir: docs
   
-# ~ additional metadata excluded for brevity ~
 website:
   title: "ENVS193DS-website_assignment"
   navbar:
@@ -16,6 +15,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
+    page-layout: full
 editor: visual
 
