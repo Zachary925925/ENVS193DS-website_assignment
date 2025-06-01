@@ -1,5 +1,6 @@
 ---
-title: "free for all"
+title: "fun facts"
 format: html
 ---
 
+![Because he has a large bill!](photos/WechatIMG27.jpg)
