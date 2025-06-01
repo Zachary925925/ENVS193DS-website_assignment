@@ -7,7 +7,9 @@ about:
   image-shape: round
   image-width: 25em
   links:
-    - text: GitHub
+    
+    - icon: github
+      text: GitHub
       href: https://github.com/Zachary925925
     - text: Email
       href: wangzachary925@gmail.com
