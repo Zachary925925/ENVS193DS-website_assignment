@@ -6,6 +6,13 @@ title: "About Me"
 
 Ever since high school, I've been captivated by photography, and over the past five years, it has become woven into the fabric of my life. Wherever I wander, I carry my camera with me, eager to capture both the fleeting beauty of everyday moments and the breathtaking wonders of the world. Those are some pictures I took.
 
+![](photos/bird.jpg)
+![](photos/hike.jpg)
+![](photos/birddawn.jpg)
+![](photos/min.jpg)
+![](photos/puffin.jpg)
+![](photos/icelandcoast.jpg)
+
 ![Iceland Hike](photos/WechatIMG22.jpg)
 ![](photos/WechatIMG24.jpg)
 ![](photos/WechatIMG21.jpg)
