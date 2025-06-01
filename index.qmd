@@ -5,7 +5,7 @@ image: photos/WehchatIMG10.jpg
 about: 
   template: jolla
   image-shape: round
-  image-width: 17em
+  image-width: 25em
   links:
     - text: GitHub
       href: https://github.com/Zachary925925
