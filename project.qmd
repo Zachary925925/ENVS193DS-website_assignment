@@ -39,7 +39,11 @@ Worked with Iceland University to process and digitize the marine debris data co
 
 Conducted a case study focused on green & energy efficient feature in UCSB Marine Science Research Building. Talked about it's leading designs and places that still require improvments.
 
+## CETlab 
 
+2025.3 - now
+
+The lab modelled India's electricity system in 2030 with different targets and shares of wind and solar PV technologies. We developed estimates of the country's wind and solar resources using spatial analysis and weather data that, along with the country's existing generation capacity and expected future demand, formed the inputs to the renewable energy value (REV) model. For three different renewable energy targets (200GW, 400 GW, and 600 GW) and five mixes of wind and solar capacity, the REV model determined the amount of new conventional capacity required to meet demand along with the system costs and carbon emissions. Helped with raw data processing and in the middle of individual research (India's carbon footprints based on electricity generation using spatial information)
 
 
 
