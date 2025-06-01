@@ -4,17 +4,17 @@ title: "About Me"
 
 ## Photography
 
-![](photos/WechatIMG22.jpg)
+Ever since high school, I've been captivated by photography, and over the past five years, it has become woven into the fabric of my life. Wherever I wander, I carry my camera with me, eager to capture both the fleeting beauty of everyday moments and the breathtaking wonders of the world. Those are some pictures I took.
+
+![Iceland Hike](photos/WechatIMG22.jpg)
 ![](photos/WechatIMG24.jpg)
 ![](photos/WechatIMG21.jpg)
 ![](photos/WechatIMG18.jpg)
-![](photos/WechatIMG10.jpg)
 ![](photos/WechatIMG15.jpg)
 ![](photos/WechatIMG11.jpg)
 
 ![](photos/WechatIMG12.jpg)
 ![](photos/WechatIMG14.jpg)
-![](photos/WechatIMG15.jpg)
 ![](photos/WechatIMG23.jpg)
 
 
@@ -24,7 +24,14 @@ title: "About Me"
 
 ## Camping&Hiking
 
-![](photos/WechatIMG10.jpg)
+Camping and hiking have profoundly shaped my life as well. I cherish those moments when I wander through nature, attuned to the whispers of the wild, inhaling the fresh scents of the earth. Each time I do this, an unspeakable joy wells up within me, filling my heart with a quiet, boundless happiness.
+
+![](photos/WechatIMG19.jpg)
+![](photos/WechatIMG13.jpg)
+![](photos/WechatIMG20.jpg)
+![](photos/WechatIMG17.jpg)
+![](photos/WechatIMG16.jpg)
+
 
 ## Environmental Studies
 
