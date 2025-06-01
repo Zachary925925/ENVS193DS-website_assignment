@@ -9,6 +9,8 @@ format: html
 
 2023.8 - 2023.9
 
+![](photos/cb.png)
+
 Assisting with field research, sample collecting; communicate planning proposals with subordinate governments; and help formulate construction plans for environmental engineering projects. Conduct a market research about vertical axes wind turbines, which includes more than 500 samples.
 
 ## Published paper
