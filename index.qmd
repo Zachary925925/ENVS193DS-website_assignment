@@ -1,6 +1,6 @@
 ---
 title: "Zach Wang"
-subtitle: ES193DS selfchoose assignment
+subtitle: "Thanks to all the fish"
 image: photos/WehchatIMG10.jpg 
 about: 
   template: jolla
