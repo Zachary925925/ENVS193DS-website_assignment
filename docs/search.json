@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Zach Wang",
     "section": "",
-    "text": "Hi! I am Zach. I am a 3rd year undergraduate student in UCSB majoring Environmental Studies. I am typically interested in renewable energy field. I am also a member of CETlab in ucsb, currently working with raw data and building models for electricity power grid system. Outside of school, I enjoy hiking, landscape photographing, and car racing. I have hiked and camped in Iceland, Holland, US, and China. Feel free to poke around my website to learn more!\nhi hello"
+    "text": "Hi! I am Zach. I am a 3rd year undergraduate student in UCSB majoring Environmental Studies. I am typically interested in renewable energy field. I am also a member of CETlab in ucsb, currently working with raw data and building models for electricity power grid system. Outside of school, I enjoy hiking, landscape photographing, and car racing. I have hiked and camped in Iceland, Holland, US, and China. Feel free to poke around my website to learn more!"
   },
   {
     "objectID": "about.html",
@@ -89,5 +89,12 @@
     "title": "Project",
     "section": "",
     "text": "2025.3 - now\nThe lab modelled India’s electricity system in 2030 with different targets and shares of wind and solar PV technologies. We developed estimates of the country’s wind and solar resources using spatial analysis and weather data that, along with the country’s existing generation capacity and expected future demand, formed the inputs to the renewable energy value (REV) model. For three different renewable energy targets (200GW, 400 GW, and 600 GW) and five mixes of wind and solar capacity, the REV model determined the amount of new conventional capacity required to meet demand along with the system costs and carbon emissions. Helped with raw data processing and in the middle of individual research (India’s carbon footprints based on electricity generation using spatial information)"
+  },
+  {
+    "objectID": "index.html#university-of-california-santa-barbara",
+    "href": "index.html#university-of-california-santa-barbara",
+    "title": "Zach Wang",
+    "section": "University of California, Santa Barbara",
+    "text": "University of California, Santa Barbara\n2022 - 2026"
   }
 ]
