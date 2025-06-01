@@ -1,7 +1,7 @@
 ---
 title: "Zach Wang"
 subtitle: ES193DS selfchoose assignment
-image: (photos/WehchatIMG10.jpg) 
+image: photos/WehchatIMG10.jpg 
 about: 
   template: jolla
   image-shape: round
@@ -24,3 +24,7 @@ Hi! I am Zach. I am a 3rd year undergraduate student in UCSB majoring Environmen
 ## University of California, Santa Barbara
 
 2022 - 2026
+
+## Crespi Carmelite High School 
+
+2019 - 2022
