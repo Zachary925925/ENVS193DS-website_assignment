@@ -22,11 +22,7 @@ page-footer:
 
 format:
   html:
-    theme: 
-        theme: styles.scss
-        light: flatly
-        dark: darkly
-    css: styles.css
+    theme: styles.scss
     toc: true
     page-layout: full
 editor: visual
