@@ -4,7 +4,7 @@ project:
   
 website:
   title: "ENVS193DS-website_assignment"
-
+  navbar: 
 format:
   html:
     theme: styles.scss
