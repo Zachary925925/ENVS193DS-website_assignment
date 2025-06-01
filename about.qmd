@@ -4,9 +4,27 @@ title: "About Me"
 
 ## Photography
 
-! \[\] (WechatIMG10.jpg)
+![](photos/WechatIMG22.jpg)
+![](photos/WechatIMG24.jpg)
+![](photos/WechatIMG21.jpg)
+![](photos/WechatIMG18.jpg)
+![](photos/WechatIMG10.jpg)
+![](photos/WechatIMG15.jpg)
+![](photos/WechatIMG11.jpg)
+
+![](photos/WechatIMG12.jpg)
+![](photos/WechatIMG14.jpg)
+![](photos/WechatIMG15.jpg)
+![](photos/WechatIMG23.jpg)
+
+
+
+
+
 
 ## Camping&Hiking
+
+![](photos/WechatIMG10.jpg)
 
 ## Environmental Studies
 
