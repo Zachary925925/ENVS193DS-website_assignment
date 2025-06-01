@@ -5,6 +5,13 @@ project:
 website:
   title: "ENVS193DS-website_assignment"
   navbar: 
+    left: 
+      - text: Home
+        herf: index.qmd
+      - about.qmd
+      - project.qmd
+      - free for all.qmd
+      - resume.qmd
 format:
   html:
     theme: styles.scss
