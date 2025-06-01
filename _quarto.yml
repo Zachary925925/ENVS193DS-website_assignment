@@ -4,16 +4,6 @@ project:
   
 website:
   title: "ENVS193DS-website_assignment"
-    
-page-footer:
-    background: light
-    left: Copyright 2025, Zach Wang
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - project.qmd
-      - free for all.qmd
-      - resume.qmd
 
 format:
   html:
