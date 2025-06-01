@@ -20,6 +20,12 @@ navbar:
   right:
     - text: CV
       href: https://docs.google.com/document/d/1f7VtnDLNzUTi-KGSdp88gXnGUdNKi1MtGTO073k1HL8/edit?usp=sharing 
+      
+page-footer:
+    background: light
+    left: Copyright 2025, Zach Wang
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/samanthacsik/samanthacsik.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+
 ---
 
 Hi! I am Zach. I am a 3rd year undergraduate student in UCSB majoring Environmental Studies. I am typically interested in renewable energy field. I am also a member of CETlab in ucsb, currently working with raw data and building models for electricity power grid system. Outside of school, I enjoy hiking, landscape photographing, and car racing. I have hiked and camped in Iceland, Holland, US, and China. Feel free to poke around my website to learn more!
