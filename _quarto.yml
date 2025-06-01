@@ -4,8 +4,8 @@ project:
   
 website:
   title: "ENVS193DS-website_assignment"
-  navbar:
-    right:
+    navbar:
+      right:
     - text: CV
       href: https://docs.google.com/document/d/1f7VtnDLNzUTi-KGSdp88gXnGUdNKi1MtGTO073k1HL8/edit?usp=sharing 
       
