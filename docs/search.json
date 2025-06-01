@@ -9,8 +9,29 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "! [] (WechatIMG10.jpg)"
+  },
+  {
+    "objectID": "about.html#photography",
+    "href": "about.html#photography",
+    "title": "About Me",
+    "section": "",
+    "text": "! [] (WechatIMG10.jpg)"
+  },
+  {
+    "objectID": "about.html#campinghiking",
+    "href": "about.html#campinghiking",
+    "title": "About Me",
+    "section": "Camping&Hiking",
+    "text": "Camping&Hiking"
+  },
+  {
+    "objectID": "about.html#environmental-studies",
+    "href": "about.html#environmental-studies",
+    "title": "About Me",
+    "section": "Environmental Studies",
+    "text": "Environmental Studies"
   }
 ]
