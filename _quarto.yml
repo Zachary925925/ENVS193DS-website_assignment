@@ -5,6 +5,13 @@ project:
 website:
   title: "ENVS193DS-website_assignment"
   navbar:
+    right:
+    - text: CV
+      href: https://docs.google.com/document/d/1f7VtnDLNzUTi-KGSdp88gXnGUdNKi1MtGTO073k1HL8/edit?usp=sharing 
+      
+page-footer:
+    background: light
+    left: Copyright 2025, Zach Wang
     left:
       - href: index.qmd
         text: Home
