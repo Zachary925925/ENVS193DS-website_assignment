@@ -15,6 +15,7 @@ Here is the rough location of Air Pollution Control District
 
 ```{r}
 library(leaflet)
+m = leaflet() %>% addTiles()
 m %>% addPopups(-119.86625, 34.43389, 'Air Pollution Control District, Goleta')
 ```
 
