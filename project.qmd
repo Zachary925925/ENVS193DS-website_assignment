@@ -8,14 +8,13 @@ format: html
 
 ## Thomas Fire Pm2.5 Comparison Within Santa Barbara Project (R language)
 
+
+In this project, I used the ggplot code to visualize the concentration of Pm 2.5 at different locations within Santa Barbara, by using fire database. The data is continuous through time (from 2024 Dec to 2025 Jan). This project is focused on finding the correlation between Thomas fire and Pm 2.5 concentration at sites in Santa Barbara. 
+
+Here is the rough location of Air Pollution Control District
+
 ```{r}
 library(leaflet)
-m = leaflet() %>% addTiles()
-m  # a map with the default OSM tile layer
-
-m = m %>% setView(-119.86625, 34.43389, zoom = 17)
-m
-
 m %>% addPopups(-119.86625, 34.43389, 'Air Pollution Control District, Goleta')
 ```
 
@@ -26,7 +25,7 @@ m %>% addPopups(-119.86625, 34.43389, 'Air Pollution Control District, Goleta')
 
 
 ![](photos/code3.png)
-In this project, I used the ggplot code to visualize the concentration of Pm 2.5 at different locations within Santa Barbara, by using fire database. The data is continuous through time (from 2024 Dec to 2025 Jan). This project is focused on finding the correlation between Thomas fire and Pm 2.5 concentration at sites in Santa Barbara. 
+
 
 After that, I turned to look for the data difference between Goleta and Santa Barbara.
 
