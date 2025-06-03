@@ -3,9 +3,24 @@ title: "Project"
 format: html
 ---
 
+
 # Code Project
 
 ## Thomas Fire Pm2.5 Comparison Within Santa Barbara Project (R language)
+
+```{r}
+library(leaflet)
+m = leaflet() %>% addTiles()
+m  # a map with the default OSM tile layer
+
+m = m %>% setView(-119.86625, 34.43389, zoom = 17)
+m
+
+m %>% addPopups(-119.86625, 34.43389, 'Air Pollution Control District, Goleta')
+```
+
+
+
 ![](photos/code1.png)
 ![](photos/code2.png)
 
