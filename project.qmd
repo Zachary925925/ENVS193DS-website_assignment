@@ -3,6 +3,17 @@ title: "Project"
 format: html
 ---
 
+# Code Project
+
+## Thomas Fire Pm2.5 Comparison Within Santa Barbara Project
+![](photos/code1.png)
+![](photos/code2.png)
+
+
+![](photos/code3.png)
+
+
+
 # Internship
 
 ## Chengbang Design Group Cop.
