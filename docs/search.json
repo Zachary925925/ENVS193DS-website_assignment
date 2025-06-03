@@ -39,7 +39,7 @@
     "href": "project.html",
     "title": "Project",
     "section": "",
-    "text": "2023.8 - 2023.9\n\nAssisting with field research, sample collecting; communicate planning proposals with subordinate governments; and help formulate construction plans for environmental engineering projects. Conduct a market research about vertical axes wind turbines, which includes more than 500 samples.\n\n\n\nYoung Chinese consumer’s willingness and acceptance towards Artificial Meat\n\n\n\n2024.6 - 2024.8\nCamping and hiking during the whole Iceland program. Visited critical nesting grounds and assist scientists with ongoing oyster catcher research. Observed puffins and seals, study plant diversity, discuss criteria for sustainable fisheries, and learn about the challenges that Iceland has faced due to deforestation and the damming of glacial rivers. Eurasian tectonic plates is situated. From active participation in research, interacting with various stakeholders, trekking across diverse landscapes, and reflecting in our scientific journals while immersed in nature. Also spent a week at an Icelandic research station and assist with coastal and marine monitoring efforts across tundra landscape.\n\n\n\n2024.7\nWorked with Icelandic Seal Center helped collect and analyze Seal’s population at the Melrakkasletta Peninsula.\n\n\n\n2024.7\nWorked with Iceland University to process and digitize the marine debris data collected from Husavik’s coast.\n\n\n\n2025.3\nConducted a case study focused on green & energy efficient feature in UCSB Marine Science Research Building. Talked about it’s leading designs and places that still require improvments.\n\n\n\n2025.3 - now\nThe lab modelled India’s electricity system in 2030 with different targets and shares of wind and solar PV technologies. We developed estimates of the country’s wind and solar resources using spatial analysis and weather data that, along with the country’s existing generation capacity and expected future demand, formed the inputs to the renewable energy value (REV) model. For three different renewable energy targets (200GW, 400 GW, and 600 GW) and five mixes of wind and solar capacity, the REV model determined the amount of new conventional capacity required to meet demand along with the system costs and carbon emissions. Helped with raw data processing and in the middle of individual research (India’s carbon footprints based on electricity generation using spatial information)"
+    "text": "In this project, I used the ggplot code to visualize the concentration of Pm 2.5 at different locations within Santa Barbara, by using fire database. The data is continuous through time (from 2024 Dec to 2025 Jan). This project is focused on finding the correlation between Thomas fire and Pm 2.5 concentration at sites in Santa Barbara.\nAfter that, I turned to look for the data difference between Goleta and Santa Barbara.\nI cleaned up the data so that the data frame only have two sites’ information. \nI visualized the mean and distribution status of Pm 2.5 concentration within those cites. \n Then, I did QQ test to test out the normality of the data in two cites.   Turned out that they are not normally distributed.\nSo I did a Welch two sample t test to find out how different two cites are.\n Result: We did not found a significant difference in mean PM2.5 concentration between Goleta (n = 25) and Santa Barbara (n = 28) areas (Weltch two-sample t-test, t(46.752) = -1.4641, p = 0.1499, ⍺ = 0.05)."
   },
   {
     "objectID": "project.html#chengbang-design-group-cop.",
@@ -110,5 +110,19 @@
     "title": "Zach Wang",
     "section": "Crespi Carmelite High School",
     "text": "Crespi Carmelite High School\n2019 - 2022"
+  },
+  {
+    "objectID": "project.html#thomas-fire-pm2.5-comparison-within-santa-barbara-project",
+    "href": "project.html#thomas-fire-pm2.5-comparison-within-santa-barbara-project",
+    "title": "Project",
+    "section": "",
+    "text": "In this project, I used the ggplot code to visualize the concentration of Pm 2.5 at different locations within Santa Barbara, by using fire database. The data is continuous through time (from 2024 Dec to 2025 Jan). This project is focused on finding the correlation between Thomas fire and Pm 2.5 concentration at sites in Santa Barbara."
+  },
+  {
+    "objectID": "project.html#thomas-fire-pm2.5-comparison-within-santa-barbara-project-r-language",
+    "href": "project.html#thomas-fire-pm2.5-comparison-within-santa-barbara-project-r-language",
+    "title": "Project",
+    "section": "",
+    "text": "In this project, I used the ggplot code to visualize the concentration of Pm 2.5 at different locations within Santa Barbara, by using fire database. The data is continuous through time (from 2024 Dec to 2025 Jan). This project is focused on finding the correlation between Thomas fire and Pm 2.5 concentration at sites in Santa Barbara.\nAfter that, I turned to look for the data difference between Goleta and Santa Barbara.\nI cleaned up the data so that the data frame only have two sites’ information. \nI visualized the mean and distribution status of Pm 2.5 concentration within those cites. \n Then, I did QQ test to test out the normality of the data in two cites.   Turned out that they are not normally distributed.\nSo I did a Welch two sample t test to find out how different two cites are.\n Result: We did not found a significant difference in mean PM2.5 concentration between Goleta (n = 25) and Santa Barbara (n = 28) areas (Weltch two-sample t-test, t(46.752) = -1.4641, p = 0.1499, ⍺ = 0.05)."
   }
 ]

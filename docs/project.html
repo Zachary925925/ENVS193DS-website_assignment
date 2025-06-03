@@ -125,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#code-project" id="toc-code-project" class="nav-link active" data-scroll-target="#code-project">Code Project</a>
   <ul class="collapse">
-  <li><a href="#thomas-fire-pm2.5-comparison-within-santa-barbara-project" id="toc-thomas-fire-pm2.5-comparison-within-santa-barbara-project" class="nav-link" data-scroll-target="#thomas-fire-pm2.5-comparison-within-santa-barbara-project">Thomas Fire Pm2.5 Comparison Within Santa Barbara Project</a></li>
+  <li><a href="#thomas-fire-pm2.5-comparison-within-santa-barbara-project-r-language" id="toc-thomas-fire-pm2.5-comparison-within-santa-barbara-project-r-language" class="nav-link" data-scroll-target="#thomas-fire-pm2.5-comparison-within-santa-barbara-project-r-language">Thomas Fire Pm2.5 Comparison Within Santa Barbara Project (R language)</a></li>
   </ul></li>
   <li><a href="#internship" id="toc-internship" class="nav-link" data-scroll-target="#internship">Internship</a>
   <ul class="collapse">
@@ -164,10 +164,16 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="code-project" class="level1">
 <h1>Code Project</h1>
-<section id="thomas-fire-pm2.5-comparison-within-santa-barbara-project" class="level2">
-<h2 class="anchored" data-anchor-id="thomas-fire-pm2.5-comparison-within-santa-barbara-project">Thomas Fire Pm2.5 Comparison Within Santa Barbara Project</h2>
+<section id="thomas-fire-pm2.5-comparison-within-santa-barbara-project-r-language" class="level2">
+<h2 class="anchored" data-anchor-id="thomas-fire-pm2.5-comparison-within-santa-barbara-project-r-language">Thomas Fire Pm2.5 Comparison Within Santa Barbara Project (R language)</h2>
 <p><img src="photos/code1.png" class="img-fluid"> <img src="photos/code2.png" class="img-fluid"></p>
-<p><img src="photos/code3.png" class="img-fluid"></p>
+<p><img src="photos/code3.png" class="img-fluid"> In this project, I used the ggplot code to visualize the concentration of Pm 2.5 at different locations within Santa Barbara, by using fire database. The data is continuous through time (from 2024 Dec to 2025 Jan). This project is focused on finding the correlation between Thomas fire and Pm 2.5 concentration at sites in Santa Barbara.</p>
+<p>After that, I turned to look for the data difference between Goleta and Santa Barbara.</p>
+<p>I cleaned up the data so that the data frame only have two sites’ information. <img src="photos/code4.png" class="img-fluid"></p>
+<p>I visualized the mean and distribution status of Pm 2.5 concentration within those cites. <img src="photos/code5.png" class="img-fluid"></p>
+<p><img src="photos/code6.png" class="img-fluid"> Then, I did QQ test to test out the normality of the data in two cites. <img src="photos/code7.png" class="img-fluid"> <img src="photos/code8.png" class="img-fluid"> Turned out that they are not normally distributed.</p>
+<p>So I did a Welch two sample t test to find out how different two cites are.</p>
+<p><img src="photos/code9.png" class="img-fluid"> Result: We did not found a significant difference in mean PM2.5 concentration between Goleta (n = 25) and Santa Barbara (n = 28) areas (Weltch two-sample t-test, t(46.752) = -1.4641, p = 0.1499, ⍺ = 0.05).</p>
 </section>
 </section>
 <section id="internship" class="level1">
