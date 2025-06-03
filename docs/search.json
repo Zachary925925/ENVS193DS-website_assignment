@@ -124,5 +124,12 @@
     "title": "Project",
     "section": "",
     "text": "In this project, I used the ggplot code to visualize the concentration of Pm 2.5 at different locations within Santa Barbara, by using fire database. The data is continuous through time (from 2024 Dec to 2025 Jan). This project is focused on finding the correlation between Thomas fire and Pm 2.5 concentration at sites in Santa Barbara.\nHere is the rough location of Air Pollution Control District\n\nlibrary(leaflet)\nm = leaflet() %&gt;% addTiles()\nm %&gt;% addPopups(-119.86625, 34.43389, 'Air Pollution Control District, Goleta')\n\n\n\n\n\n \n\nAfter that, I turned to look for the data difference between Goleta and Santa Barbara.\nI cleaned up the data so that the data frame only have two sites’ information. \nI visualized the mean and distribution status of Pm 2.5 concentration within those sites. \n Then, I did QQ test to test out the normality of the data in two sites.   Turned out that they are not normally distributed.\nSo I did a Welch two sample t test to find out how different two sites are.\n Result: We did not found a significant difference in mean PM2.5 concentration between Goleta (n = 25) and Santa Barbara (n = 28) areas (Weltch two-sample t-test, t(46.752) = -1.4641, p = 0.1499, ⍺ = 0.05)."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "resume",
+    "section": "",
+    "text": "My Resume\nCV"
   }
 ]
