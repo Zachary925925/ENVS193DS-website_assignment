@@ -18,16 +18,16 @@ After that, I turned to look for the data difference between Goleta and Santa Ba
 I cleaned up the data so that the data frame only have two sites' information.
 ![](photos/code4.png)
 
-I visualized the mean and distribution status of Pm 2.5 concentration within those cites.
+I visualized the mean and distribution status of Pm 2.5 concentration within those sites.
 ![](photos/code5.png)
 
 ![](photos/code6.png)
-Then, I did QQ test to test out the normality of the data in two cites.
+Then, I did QQ test to test out the normality of the data in two sites.
 ![](photos/code7.png)
 ![](photos/code8.png)
 Turned out that they are not normally distributed.
 
-So I did a Welch two sample t test to find out how different two cites are.
+So I did a Welch two sample t test to find out how different two sites are.
 
 ![](photos/code9.png)
 Result: We did not found a significant difference in mean PM2.5 concentration between Goleta (n
