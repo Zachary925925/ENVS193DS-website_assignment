@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "ENVS193DS-website_assignment"
+  title: "Zach Wang Personal Website"
   navbar: 
     left: 
       - text: Home
